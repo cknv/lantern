@@ -1,0 +1,10 @@
+[package]
+
+name = "lucerne"
+version = "0.0.1"
+authors = [ "Esben Sonne <esbensonne+code@gmail.com" ]
+license = ""
+repository = ""
+
+[dependencies]
+sha1 = "0.2.0"
