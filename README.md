@@ -15,10 +15,13 @@ Things to do, before this is of any use
 - [ ] Restructure the index itself
 - [ ] Make indices intelligently use several segments
 - [ ] Make it possible to rewrite segments
+- [ ] Support more operations on documents (update, delete)
 - [ ] Support more complex types than just a string
 - [ ] Support different ways to analyse text
 - [ ] Query via a DSL, possibly structs
 - [ ] Document it
+- [ ] Pick a license
+- [ ] Push to crates.io
 - [ ] Rename the library to not be a bad pun
 
 Contributing
