@@ -56,7 +56,7 @@ impl Segment {
             };
 
             let row = format!("{}\t{}\n", id, position);
-            println!("{}", row);
+            file.write(row.as_bytes());
         }
     }
 
