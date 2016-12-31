@@ -5,7 +5,7 @@ use tempdir::TempDir;
 
 
 #[test]
-fn it_works() {
+fn basic_indexing_and_search() {
     let base_path = TempDir::new("index-path").unwrap();
     let mut index = lucerne::Index::new(base_path.path());
     index.create("id_1", "this is some text");
