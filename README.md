@@ -11,6 +11,8 @@ To make a disk based inverted index, available as a `.so` (or `.dll` if you are 
 Things to do, before this is of any use
 ---------------------------------------
 
+In no particular order:
+
 - [ ] Make indices load up existing segments
 - [ ] Restructure the index itself
 - [ ] Make indices intelligently use several segments
