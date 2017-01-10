@@ -25,6 +25,7 @@ In no particular order:
 - [ ] Pick a license
 - [ ] Push to crates.io
 - [ ] Rename the library to not be a bad pun
+- [ ] Also compile to a linkable
 
 Contributing
 ------------
