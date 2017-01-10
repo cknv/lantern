@@ -1,6 +1,6 @@
 [package]
 
-name = "lucerne"
+name = "lantern"
 version = "0.0.1"
 authors = [ "Esben Sonne <esbensonne+code@gmail.com" ]
 license = ""

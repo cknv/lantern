@@ -1,4 +1,4 @@
-Lucerne
+Lantern
 =======
 
 Prototype of a disk based inverted index written in rust. Currently no way near being useful.
@@ -24,7 +24,6 @@ In no particular order:
 - [ ] Document it
 - [ ] Pick a license
 - [ ] Push to crates.io
-- [ ] Rename the library to not be a bad pun
 - [ ] Also compile to a linkable
 
 Contributing
