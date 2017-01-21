@@ -1,12 +1,18 @@
 Lantern
 =======
 
+**Warning! Experimental!**
+
 Prototype of a disk based inverted index written in rust. Currently no way near being useful.
+
+I do not have much experience with Rust, so when reading this code, do not assume what I do is good practice, good style, or perhaps even smart.
 
 Goals
 -----
 
-To make a disk based inverted index, available as a `.so` (or `.dll` if you are on windows). By solving this part of the problem in a search cluster, the cluster mainly has to worry about the clustering. By making this library linkable, the cluster can be written in any language that can link out via FFI, thus removing the coupling to any specific runtime.
+Above all this is written to experiment with rust first.
+
+Secondly the intent is to make a disk based inverted index, available as a `.so` (or `.dll` if you are on windows). By solving this part of the problem in a search cluster, the cluster mainly has to worry about the clustering. By making this library linkable, the cluster can be written in any language that can link out via FFI, thus removing the coupling to any specific runtime. Inspiration for this approach include databases like Riak, and Elasticsearch.
 
 Things to do, before this is of any use
 ---------------------------------------
