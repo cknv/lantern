@@ -17,6 +17,7 @@ In no particular order:
 - [ ] Restructure the index itself
 - [ ] Make indices intelligently use several segments
 - [ ] Make it possible to rewrite segments
+- [ ] Make indices intelligently rewrite segments
 - [ ] Support more operations on documents (update, delete)
 - [ ] Support more complex types than just a string
 - [ ] Support different ways to analyse text
