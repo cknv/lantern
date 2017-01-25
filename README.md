@@ -32,6 +32,7 @@ In no particular order:
 - [ ] Pick a license
 - [ ] Push to crates.io
 - [ ] Also compile to a linkable
+- [ ] Possibly switch to using `mmap` backed IO
 
 Contributing
 ------------
